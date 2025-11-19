@@ -1,1 +1,1 @@
-# Bloodbank-mangement-system
+ This System facilitates seamless donor registration and blood donation processes while providing real-time access to blood availability. With robust database connectivity, donors can easily register, donate blood, and check for blood availability, streamlining the blood donation process for both donors and recipients
